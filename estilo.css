@@ -1,0 +1,39 @@
+body{
+    background-color: #D3DBDE;
+    font.family
+}
+p{
+    background-color: #B6C2C9;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: #333333;
+    text-transform: uppercase;
+}
+h2{
+    background-color: #7B929D;
+    color:#415058;
+    font-size: 32px;
+    text-decoration: underline;
+}
+h3{
+    background-color: #98AAB3;
+    color:#576B77;
+    font-size: 24px;
+    font-style: italic;
+}
+em{
+    color: #0088CC;
+    font-style: normal;
+    font-weight: bold;
+}
+strong{
+    color: #0066A5;
+    font-weight: normal;
+}
+address{
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
